@@ -1,0 +1,17 @@
+Fred 4
+Gertrudis 8
+Gertrudis 26
+Gertrudis 14
+Josh 10
+Josh 10
+Gertrudis 6
+Computer 28
+Gertrudis 11
+Computer 13
+Josh 10
+Josh 11
+Computer 19
+Gertrudis 23
+Computer 17
+Gertrudis 6
+Computer 9
